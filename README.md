@@ -9,12 +9,11 @@ I am a passionate software developer specializing in building dynamic, responsiv
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Innovative full-stack projects including web platforms and Flutter-based mobile applications (like municipality workflow portals).
+- 🔭 **Currently working on:** Innovative full-stack projects including web platforms.
 - 🎓 **Education:** Pursuing B.Tech in Artificial Intelligence & Data Science at Francis Xavier Engineering College.
 - 💼 **Experience:** Gained hands-on industry experience as a Full-Stack Developer Intern at Roriri Software Solutions.
 - 🌱 **Currently learning:** Advanced AI integrations and scaling web applications.
 - 👯 **Open to collaborate on:** Open-source projects, React, Django, and AI-driven applications.
-- 🎥 **Beyond coding:** I run a YouTube channel dedicated to teaching Hindi to Tamil speakers!
 - ⚡ **Fun fact:** I love optimizing code just as much as I love watching Indian cricket 🏏 (Huge fan of Rohit, MS Dhoni, and Virat Kohli!).
 
 ---
@@ -28,7 +27,6 @@ I am a passionate software developer specializing in building dynamic, responsiv
 
 **Frontend & Mobile:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
